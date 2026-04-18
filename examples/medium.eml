@@ -1,0 +1,6 @@
+From: billing@amazon.com
+Reply-To: billing@amazon.com
+Subject: Your Amazon invoice is ready
+Return-Path: bounce@amazon-mailer.com
+Received: from mail.amazon-mailer.com (203.0.113.15)
+Authentication-Results: spf=pass dkim=none dmarc=none

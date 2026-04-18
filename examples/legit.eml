@@ -1,0 +1,6 @@
+From: support@github.com
+Reply-To: support@github.com
+Subject: Your GitHub security alert
+Return-Path: support@github.com
+Received: from mail.github.com (192.30.255.1)
+Authentication-Results: spf=pass dkim=pass dmarc=pass

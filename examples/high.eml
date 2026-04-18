@@ -1,0 +1,7 @@
+From: security@paypal.com
+Reply-To: collect@gmail.com
+Subject: Your account has been suspended — action required
+Return-Path: bounce@paypal-billing-secure.com
+Received: from mail.paypal-billing-secure.com (198.51.100.42)
+Authentication-Results: spf=fail dkim=fail dmarc=fail
+X-Mailer: Gmail
